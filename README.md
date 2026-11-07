@@ -75,7 +75,7 @@ Les scores journaliers ont bien été calculés, mais 30 jours de données sont 
 
 ## 🗂️ Contenu du dépôt
 
-- [`Mémoire web scraping .pdf`](M%C3%A9moire%20web%20scraping%20.pdf) : le mémoire complet (26 pages)
+- [`Mémoire web scraping .pdf`](Me%CC%81moire%20web%20scraping%20.pdf) : le mémoire complet (26 pages)
 - Fichiers `.png` : les figures et résultats du mémoire
 
 ## 👩‍💻 Ma contribution
